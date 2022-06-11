@@ -1,0 +1,16 @@
+C:\Users\pana_\Desktop\bilge adam\4. Hafta(30.05.2022-05.06.2022) 5 gun\OS-RastgeleSayiTahmini\OS-RastgeleSayiTahmini\bin\Debug\net5.0\OS-RastgeleSayiTahmini.exe
+C:\Users\pana_\Desktop\bilge adam\4. Hafta(30.05.2022-05.06.2022) 5 gun\OS-RastgeleSayiTahmini\OS-RastgeleSayiTahmini\bin\Debug\net5.0\OS-RastgeleSayiTahmini.deps.json
+C:\Users\pana_\Desktop\bilge adam\4. Hafta(30.05.2022-05.06.2022) 5 gun\OS-RastgeleSayiTahmini\OS-RastgeleSayiTahmini\bin\Debug\net5.0\OS-RastgeleSayiTahmini.runtimeconfig.json
+C:\Users\pana_\Desktop\bilge adam\4. Hafta(30.05.2022-05.06.2022) 5 gun\OS-RastgeleSayiTahmini\OS-RastgeleSayiTahmini\bin\Debug\net5.0\OS-RastgeleSayiTahmini.runtimeconfig.dev.json
+C:\Users\pana_\Desktop\bilge adam\4. Hafta(30.05.2022-05.06.2022) 5 gun\OS-RastgeleSayiTahmini\OS-RastgeleSayiTahmini\bin\Debug\net5.0\OS-RastgeleSayiTahmini.dll
+C:\Users\pana_\Desktop\bilge adam\4. Hafta(30.05.2022-05.06.2022) 5 gun\OS-RastgeleSayiTahmini\OS-RastgeleSayiTahmini\bin\Debug\net5.0\ref\OS-RastgeleSayiTahmini.dll
+C:\Users\pana_\Desktop\bilge adam\4. Hafta(30.05.2022-05.06.2022) 5 gun\OS-RastgeleSayiTahmini\OS-RastgeleSayiTahmini\bin\Debug\net5.0\OS-RastgeleSayiTahmini.pdb
+C:\Users\pana_\Desktop\bilge adam\4. Hafta(30.05.2022-05.06.2022) 5 gun\OS-RastgeleSayiTahmini\OS-RastgeleSayiTahmini\obj\Debug\net5.0\OS-RastgeleSayiTahmini.csproj.AssemblyReference.cache
+C:\Users\pana_\Desktop\bilge adam\4. Hafta(30.05.2022-05.06.2022) 5 gun\OS-RastgeleSayiTahmini\OS-RastgeleSayiTahmini\obj\Debug\net5.0\OS-RastgeleSayiTahmini.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pana_\Desktop\bilge adam\4. Hafta(30.05.2022-05.06.2022) 5 gun\OS-RastgeleSayiTahmini\OS-RastgeleSayiTahmini\obj\Debug\net5.0\OS-RastgeleSayiTahmini.AssemblyInfoInputs.cache
+C:\Users\pana_\Desktop\bilge adam\4. Hafta(30.05.2022-05.06.2022) 5 gun\OS-RastgeleSayiTahmini\OS-RastgeleSayiTahmini\obj\Debug\net5.0\OS-RastgeleSayiTahmini.AssemblyInfo.cs
+C:\Users\pana_\Desktop\bilge adam\4. Hafta(30.05.2022-05.06.2022) 5 gun\OS-RastgeleSayiTahmini\OS-RastgeleSayiTahmini\obj\Debug\net5.0\OS-RastgeleSayiTahmini.csproj.CoreCompileInputs.cache
+C:\Users\pana_\Desktop\bilge adam\4. Hafta(30.05.2022-05.06.2022) 5 gun\OS-RastgeleSayiTahmini\OS-RastgeleSayiTahmini\obj\Debug\net5.0\OS-RastgeleSayiTahmini.dll
+C:\Users\pana_\Desktop\bilge adam\4. Hafta(30.05.2022-05.06.2022) 5 gun\OS-RastgeleSayiTahmini\OS-RastgeleSayiTahmini\obj\Debug\net5.0\ref\OS-RastgeleSayiTahmini.dll
+C:\Users\pana_\Desktop\bilge adam\4. Hafta(30.05.2022-05.06.2022) 5 gun\OS-RastgeleSayiTahmini\OS-RastgeleSayiTahmini\obj\Debug\net5.0\OS-RastgeleSayiTahmini.pdb
+C:\Users\pana_\Desktop\bilge adam\4. Hafta(30.05.2022-05.06.2022) 5 gun\OS-RastgeleSayiTahmini\OS-RastgeleSayiTahmini\obj\Debug\net5.0\OS-RastgeleSayiTahmini.genruntimeconfig.cache
